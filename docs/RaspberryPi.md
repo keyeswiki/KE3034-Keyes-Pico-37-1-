@@ -1292,13 +1292,13 @@ LED熄灭；否则传感器信号端为被R2拉低为低电平，自带红色LED
 
 '''
 
-\* Keyestudio Starter Kit for Raspberry Pi Pico
+\* keyes  Starter Kit for Raspberry Pi Pico
 
 \* lesson 13
 
 \* Active buzzer
 
-\* http://www.keyestudio.com
+\* http://www.keyes-robot.com
 
 '''
 
