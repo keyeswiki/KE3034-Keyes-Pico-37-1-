@@ -92,7 +92,7 @@ https://www.raspberrypi.com/products/raspberry-pi-pico/
 
 ![](media/54441cfadc970393e426fa6e33d10017.png)
 
-Arduino 软件有很多版本，有wodows,mac linux系统的（如下图），而且还有过去老的版本，你只需要下载一个适合系统的版本。
+Arduino 软件有很多版本，有windows,mac linux系统的（如下图），而且还有过去老的版本，你只需要下载一个适合系统的版本。
 
 这里我们以WINDOWS系统的为例给大家介绍一下下载和安装的步骤。
 
@@ -560,7 +560,7 @@ if (val == 0) { //按下按键则读取到低电平，打印按下相关信息
 
 Serial.print(" ");
 
-Serial.println("Press the botton");
+Serial.println("Press the button");
 
 delay(100);
 
@@ -570,7 +570,7 @@ else { //打印松开按键相关信息
 
 Serial.print(" ");
 
-Serial.println("Loosen the botton");
+Serial.println("Loosen the button");
 
 delay(100);
 
